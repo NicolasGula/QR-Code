@@ -24,8 +24,8 @@ Esta es la solucion a [QR code component challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solucion URL: [Add solution URL here](https://github.com/NicolasGula/QR-Code)
-- Sitio URL: [Add live site URL here](https://nicolasgula.github.io/QR-Code/)
+- Solucion URL: [https://github.com/NicolasGula/QR-Code](https://github.com/NicolasGula/QR-Code)
+- Sitio URL: [https://nicolasgula.github.io/QR-Code/](https://nicolasgula.github.io/QR-Code/)
 
 ### Construido con
 
